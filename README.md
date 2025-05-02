@@ -20,7 +20,7 @@ Early identification of plant diseases helps prevent crop loss and increase prod
 AI can provide cost-effective and scalable disease monitoring for farmers.
 
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack:
 
 Python
 
