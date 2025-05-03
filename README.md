@@ -17,7 +17,20 @@ Manual disease detection is time-consuming and error-prone.
 
 Early identification of plant diseases helps prevent crop loss and increase productivity.
 
-AI can provide cost-effective and scalable disease monitoring for farmers.
+AI can provide cost-effective and scalable disease monitoring for farmers. ample Classes:
+
+Apple Scab
+
+Blueberry Healthy
+
+Cherry Powdery Mildew
+
+Corn Cercospora Leaf Spot
+
+Grape Black Rot
+ResearchGate
++2
+
 
 
 # 🛠️ Tech Stack:
