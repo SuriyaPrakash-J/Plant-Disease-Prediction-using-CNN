@@ -19,6 +19,7 @@ Early identification of plant diseases helps prevent crop loss and increase prod
 
 AI can provide cost-effective and scalable disease monitoring for farmers. 
 
+
 # Sample Classes:
 
 Apple Scab
@@ -30,8 +31,6 @@ Cherry Powdery Mildew
 Corn Cercospora Leaf Spot
 
 Grape Black Rot
-ResearchGate
-+2
 
 
 
